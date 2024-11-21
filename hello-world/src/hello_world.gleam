@@ -1,3 +1,5 @@
+import gleam/io
+
 pub fn hello() {
-  "Goodbye, Mars!"
+  "Hello, World!"
 }
